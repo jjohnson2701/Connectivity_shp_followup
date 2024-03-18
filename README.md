@@ -8,12 +8,12 @@ This project is designed to preprocess, process, and visualize inundation shapef
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/inundation-project.git
+git clone [https://github.com/your-username/inundation-project.git](https://github.com/jjohnson2701/Connectivity_shp_followup.git)
 
 
 
 2. Install the required dependencies:
-pip install -r requirements.txt
+pip install -r requirements.txt #coming soon
 
 ## Usage
 
