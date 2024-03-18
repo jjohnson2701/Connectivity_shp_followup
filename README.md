@@ -47,6 +47,8 @@ Replace `/path/to/input/dirs` with the paths to the directories containing the i
 ### Mask Dataset Selection
 
 When running the script, it will prompt you to select the mask datasets you want to use. You can either use all available datasets by typing `y` or select specific datasets by entering comma-separated indices or ranges (e.g., `1,3-5,7`).
+When designed, this was meant to be used with the https://ghsl.jrc.ec.europa.eu/download.php datasets. I so far am most interested in getting BUILT, POP, and SMOD
+
 
 ### Example Usage
 python main.py -i /data/input_dirs/dir1 /data/input_dirs/dir2 -m /data/mask_dir -o /data/output/result.shp -f all
